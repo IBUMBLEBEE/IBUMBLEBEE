@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IBUMBLEBEE
 - 👀 I’m interested in DevOps, SRE
-- 🌱 I’m currently learning Golang,Vue
+- 🌱 I’m currently learning Rust / C / eBPF
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
